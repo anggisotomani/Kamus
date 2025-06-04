@@ -24,8 +24,6 @@ seperti
 dibanding
 daripada
 ketimbang
-versus
-vs
 dibandingkan
 serupa
 kalau
@@ -41,7 +39,6 @@ seharusnya
 tapi
 namun
 tetapi
-akan tetapi
 meskipun
 walaupun
 padahal
@@ -51,18 +48,7 @@ sebaliknya
 kecuali
 selain
 juga
-pun
-lah
-kah
 saja
-deh
-dong
-kok
-sih
-ya
-kan
-loh
-toh
 memang
 banget
 langsung
@@ -80,7 +66,6 @@ oke
 pasti
 tentu
 yakin
-sure
 siap
 ready
 biasa
@@ -108,7 +93,6 @@ sulit
 pasti
 mungkin
 bisa
-bisa jadi
 kemungkinan
 kayaknya
 rasanya
